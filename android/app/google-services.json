@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986984735263",
+    "firebase_url": "https://studenthealthcompanion-e2337.firebaseio.com",
+    "project_id": "studenthealthcompanion-e2337",
+    "storage_bucket": "studenthealthcompanion-e2337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986984735263:android:51505fc3ef1ff248666b2a",
+        "android_client_info": {
+          "package_name": "com.example.shc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986984735263-bs200vv34eud68ctcv5avvfhgek61u2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shc",
+            "certificate_hash": "e9bc38b77e2c00f47343299d33b4a1950878b581"
+          }
+        },
+        {
+          "client_id": "986984735263-ft5t8o92b0b15kn1rvvd8bub8np2539o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcU83K4UmINPRB9RsPeFIJ2O2xz6wYSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986984735263-ft5t8o92b0b15kn1rvvd8bub8np2539o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
